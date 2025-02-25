@@ -1,0 +1,9 @@
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.bg{
+    background-color: rgb(18, 18, 18);
+}
